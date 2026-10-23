@@ -1,0 +1,3 @@
+'''What is a correct syntax to add the value 'Hello World', to 3 variables in one statement?'''
+
+a=b=c='Hello world'
