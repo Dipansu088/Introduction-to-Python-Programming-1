@@ -1,0 +1,1 @@
+# Write a function in python areatriangle() that takes 3 sides as commandline arguments and calculate the area of the triangle.
