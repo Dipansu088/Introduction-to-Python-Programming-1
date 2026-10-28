@@ -11,7 +11,10 @@ elif op=="-":
 elif op=="*":
     print(a*b)
 elif op=="/":
-    print(a/b)
+    if b==0:
+        print("Not defined")
+    else:
+        print(a/b)
 elif op=="%":
     print(a%b)
 else:

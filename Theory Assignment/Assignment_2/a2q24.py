@@ -1,0 +1,8 @@
+# Find the output of:
+for i in range(1, 21):
+    if i == 15:
+        break
+    if i % 3 == 0:
+        continue
+    print(i, end=" ")
+
